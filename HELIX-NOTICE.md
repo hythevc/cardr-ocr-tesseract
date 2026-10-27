@@ -10,8 +10,9 @@ This repository is a private Helix derivative of **tesseract-ocr/tesseract**.
 
 Helix modifications are marked: every changed file carries a "Modified by Helix" note and is listed in this file's changelog below, as required for Apache-2.0 derivatives.
 
-## Trademarks to rename (rebrand not yet done)
+## Trademarks to rename (README rebrand done 2026-10-27; package/CLI identifiers pending)
 Tesseract, Tesseract OCR
 
 ## Helix changelog
 - 2026-10-27: initial import; added HELIX-NOTICE.md only.
+- 2026-10-27: Modified by Helix — README.md user-facing project name changed to "Cardr OCR Classic" (prose only; code blocks, URLs, badges, package/module/CLI identifiers unchanged). Attribution header added. LICENSE/NOTICE untouched.
